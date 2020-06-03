@@ -1,5 +1,5 @@
 # Calibration of Breast Cancer Natural History Models Using Approximate Bayesian Computation
-This is the repository for my master thesis "Calibration of Breast Cancer Natural History Models Using Approximate Bayesian Computation" in mathematical statistics at KTH Royal Institute of Technology. 
+This is the repository for my master thesis "Calibration of Breast Cancer Natural History Models Using Approximate Bayesian Computation" in mathematical statistics at KTH Royal Institute of Technology. The master thesis considers lieklihood-free estimation of the breast cancer natural history models developed by Keith Humphreys, Linda Abrahamsson, Gabriel Isheden and Rickard Strandberg at Karolinska Institutet, MEB.  
 
 ## Abstract 
 Natural history models for breast cancer describe the unobservable disease progression. These models can either be fitted using likelihood-based estimation to data on individual tumour characteristics, or calibrated to fit statistics at a population level. Likelihood-based inference using individual level data has the advantage of ensuring model parameter identifiability. However, the likelihood function can be computationally heavy to evaluate or even intractable.
